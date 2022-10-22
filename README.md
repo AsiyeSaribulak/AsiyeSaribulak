@@ -6,7 +6,7 @@
 <a href="https://twitter.com/asiyebulak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asiyebulak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asiye-sarıbulak-96b222210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asiye-sarıbulak-96b222210" height="30" width="40" /></a>
 <a href="https://instagram.com/sarblk.aasiyee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarblk.aasiyee" height="30" width="40" /></a>
-<a href="https://medium.com/@asiyesrblk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asiyesrblk" height="30" width="40" /></a>
+<a href="https://medium.com/@asiyesrblk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asiyesrblk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
