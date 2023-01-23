@@ -14,11 +14,7 @@
 - 🌱 My career goal is to work as a Back-end developer
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: asiyesrblk12@gmail.com
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiyesaribulak&show_icons=true&locale=en&layout=compact" alt="asiyesaribulak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiyesaribulak&show_icons=true&locale=en" alt="asiyesaribulak" /></p>
-<p style="display: inline-block;" align="center">
+- <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages and Framework</kbd>
     <br>
@@ -52,5 +48,10 @@
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" alt="git" width="40" height="40"/> </a>
   </kbd>
  </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiyesaribulak&show_icons=true&locale=en&layout=compact" alt="asiyesaribulak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiyesaribulak&show_icons=true&locale=en" alt="asiyesaribulak" /></p>
+
 
 
