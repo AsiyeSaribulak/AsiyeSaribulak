@@ -8,6 +8,15 @@
 <a href="https://instagram.com/sarblk.aasiyee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarblk.aasiyee" height="30" width="40" /></a>
 <a href="https://medium.com/@asiyesrblk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asiyesrblk" height="30" width="40" /></a>
 </p>
+
+<a href="https://github.com/AsiyeSaribulak" target="_blank"> <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github" width="100" alt="Github"/> </a>
+<a href="https://www.linkedin.com/in/asiyesaribulak" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn"/> </a>
+<a href="https://medium.com/@asiyesrblk12" target="_blank"> <img src="https://img.shields.io/badge/-Medium-grey?style=for-the-badge&logo=Medium" alt="Medium"/> </a>
+<br />
+
+
+
+
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages and Framework</kbd>
