@@ -15,7 +15,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: asiyesrblk12@gmail.com
 
-
+<br />
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages and Framework</kbd>
@@ -53,7 +53,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiyesaribulak&show_icons=true&locale=en&layout=compact" alt="asiyesaribulak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiyesaribulak&show_icons=true&locale=en" alt="asiyesaribulak" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=asiyesaribulak&show_icons=true&locale=en" alt="asiyesaribulak" /></p>
 
 
 
