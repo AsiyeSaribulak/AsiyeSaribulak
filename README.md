@@ -8,15 +8,12 @@
 <a href="https://medium.com/@asiyesrblk12" target="_blank"> <img src="https://img.shields.io/badge/-Medium-grey?style=for-the-badge&logo=Medium" alt="Medium"/> </a>
 <br />
 
+**Talking about Personal Stuffs:**
 
-
-
-
-
-
-
-
-
+- 👨🏽‍💻 I’m computer engineering student at Bilecik Şeyh Edebali University.
+- 🌱 My career goal is to work as a Back-end developer
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: asiyesrblk12@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiyesaribulak&show_icons=true&locale=en&layout=compact" alt="asiyesaribulak" /></p>
 
