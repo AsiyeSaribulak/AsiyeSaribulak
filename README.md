@@ -2,12 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76785&width=435&lines=Software+Engineer;the+secret+to+progress+is+to+start" alt="Typing SVG" align="center" /></a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asiyebulak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asiyebulak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asiye-sarıbulak-96b222210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asiye-sarıbulak-96b222210" height="30" width="40" /></a>
-<a href="https://instagram.com/sarblk.aasiyee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarblk.aasiyee" height="30" width="40" /></a>
-<a href="https://medium.com/@asiyesrblk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asiyesrblk" height="30" width="40" /></a>
-</p>
 
 <a href="https://github.com/AsiyeSaribulak" target="_blank"> <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github" width="100" alt="Github"/> </a>
 <a href="https://www.linkedin.com/in/asiyesaribulak" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn"/> </a>
