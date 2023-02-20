@@ -54,7 +54,7 @@
 ## Github Stats 
 <a href="https://github.com/AsiyeSaribulak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asiyesaribulak&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f3723f&icon_color=f3723f&hide_border=true"/></a>
 
-<a href="https://github.com/AsiyeSaribulak"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiyesaribulak&bg_color=0d1117&text_color=bdc3c7&title_color=f3723f&hide_border=true&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/AsiyeSaribulak"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiyesaribulak&bg_color=0d1117&text_color=bdc3c7&title_color=f3723f&hide_border=true&layout=compact&langs_count=10"  width="40"  /></a>
 
 
 
